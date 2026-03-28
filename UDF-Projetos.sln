@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Semestre-05", "Semestre-05", "{D40DE094-CF49-FDE8-0B38-C9E0A0C22895}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Desenvolvimento-Mobile", "Desenvolvimento-Mobile", "{2DC7BA5A-7A62-1F97-DFCC-38A00106A5A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appUsandoTabbedPage", "Semestre-05\Desenvolvimento-Mobile\appUsandoTabbedPage\appUsandoTabbedPage.csproj", "{5D87D911-AAE5-7CF8-116B-8F5F5F7E3038}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D87D911-AAE5-7CF8-116B-8F5F5F7E3038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D87D911-AAE5-7CF8-116B-8F5F5F7E3038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D87D911-AAE5-7CF8-116B-8F5F5F7E3038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D87D911-AAE5-7CF8-116B-8F5F5F7E3038}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2DC7BA5A-7A62-1F97-DFCC-38A00106A5A2} = {D40DE094-CF49-FDE8-0B38-C9E0A0C22895}
+		{5D87D911-AAE5-7CF8-116B-8F5F5F7E3038} = {2DC7BA5A-7A62-1F97-DFCC-38A00106A5A2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0203B7E-46B8-4758-9364-444D055711B5}
+	EndGlobalSection
+EndGlobal
